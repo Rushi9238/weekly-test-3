@@ -1,0 +1,14 @@
+.brand{
+    border: 2px solid blue;
+    height: 30vh;
+    background-color: white;
+    color: black;
+}
+.brand h1{
+    margin: 2rem 6rem;
+}
+.brand img{
+    width: 70%;
+    margin: .5rem 6rem;
+
+}

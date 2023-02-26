@@ -1,0 +1,35 @@
+.paybill{
+    /* border: 2px solid blue; */
+    height: 100vh;
+    background-image: url(../Images/fly.png);
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-position: right;
+    padding-left: 5rem;
+}
+.paybill h1{
+    /* border: 2px solid red; */
+    width: 90%;
+    font-size: 6rem;
+    text-align: start;
+    word-spacing: normal;
+    margin: 1rem;
+}
+.paybill h2{
+    /* border: 2px solid red; */
+    width: 90%;
+    font-size: 2rem;
+}
+.paybill p{
+    /* border: 2px solid red; */
+    width: 90%;
+    font-size: 1.5rem;
+    padding-right: 23rem;
+}
+.paybill button{
+    margin: 3rem;
+    padding: 1rem 4rem;
+    font-size: 2rem;
+    font-weight: 600;
+    border-radius: 50px;
+}

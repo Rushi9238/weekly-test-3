@@ -1,0 +1,30 @@
+.heading{
+    /* border: 2px solid blue; */
+    height: 90vh;
+}
+.heading h1{
+    /* border: 2px solid red; */
+    width: 60%;
+    font-size: 6rem;
+    font-weight:900;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.heading h2{
+    /* border: 2px solid red; */
+    width: 70%;
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.heading button{
+    color: red;
+    margin: 2rem;
+    padding: 1rem 4rem;
+    font-size: 1.4rem;
+    color: black;
+    background-color: white;
+    font-weight: 600;
+    border-radius: 50px;
+
+}

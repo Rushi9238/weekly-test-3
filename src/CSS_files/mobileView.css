@@ -1,0 +1,59 @@
+.mobileview{
+    /* border: 2px solid blue; */
+    height: 110vh;
+    width: 100%;
+    position: absolute;
+
+}
+.mobileview img{
+    width: 100%;
+}
+.left-img1{
+    /* border: 2px solid red; */
+    height: 75%;
+    width: 20%;
+position: relative;
+top: 3.5rem;
+left: 3rem;
+z-index: 1;
+
+}
+.left-img2{
+    /* border: 2px solid rgb(216, 19, 150); */
+    height: 75%;
+    width: 20%;
+position: relative;
+top: 2rem;
+left: 1rem;
+z-index: 3;
+}
+.center-img{
+    /* border: 2px solid rgb(42, 32, 170); */
+    height: 75%;
+    width: 20%;
+position: relative;
+top: 1rem;
+left:0rem ;
+z-index: 10;
+
+}
+.right-img2{
+    /* border: 2px solid rgb(72, 216, 29); */
+    position: relative;
+    height: 75%;
+    width: 20%;
+    top: 2rem;
+    right:2rem ;
+    z-index: 3;
+
+}
+.right-img3{
+    /* border: 2px solid rgb(13, 181, 223); */
+    position: relative;
+    height: 75%;
+    width: 20%;
+    top: 3.5rem;
+    right:4rem ;
+z-index: 1;
+
+}

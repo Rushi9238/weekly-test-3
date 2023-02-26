@@ -1,0 +1,33 @@
+.nav-bar{
+    /* border: 2px solid blue; */
+    height: 15vh;
+    width: 100%;
+    margin-top: 2rem;
+justify-content: space-evenly;
+}
+.nav-bar .leftside{
+    /* border: 2px solid red; */
+    width: 20%;
+}
+.nav-bar .leftside img{
+width: 20%;
+}
+.nav-bar .rightside{
+    /* border: 2px solid red; */
+    width: 50%;
+    justify-content: end;
+
+
+}
+.nav-bar .rightside ul {
+    width: 100%;
+justify-content: space-around;
+}
+.nav-bar .rightside ul li{
+    list-style: none;
+}
+.nav-bar .rightside ul li a{
+    font-size: 1.3rem;
+    color: white;
+    text-decoration: none;
+}
